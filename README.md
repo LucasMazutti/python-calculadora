@@ -21,6 +21,6 @@ Este é um projeto simples de calculadora feito em Python como parte dos meus es
 2. Rode o arquivo pyhton:
    cd python calculadora.py
 
-### CRIADOR POR LUCAS MAZUTTI GRABARSKI - 19/05/2025
+### CRIADO POR LUCAS MAZUTTI GRABARSKI - 19/05/2025
 
    
